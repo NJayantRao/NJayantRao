@@ -41,5 +41,11 @@
 
 ## 📊 GitHub Stats
 
-[![NJayantRao's Stats](https://github-readme-stats.vercel.app/api?username=NJayantRao&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
-](https://www.google.com/search?q=%5B!%5BAnurag%27s+GitHub+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DNJayantRao)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)&rlz=1C1RXQR_en-GBIN1103IN1103&oq=%5B!%5BAnurag%27s+GitHub+stats%5D(https%3A%2F%2Fgithub-readme-stats.vercel.app%2Fapi%3Fusername%3DNJayantRao)%5D(https%3A%2F%2Fgithub.com%2Fanuraghazra%2Fgithub-readme-stats)&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEwMzY3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NJayantRao&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NJayantRao&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NJayantRao&theme=midnight-purple&hide_border=true" height="160"/>
+</p>
